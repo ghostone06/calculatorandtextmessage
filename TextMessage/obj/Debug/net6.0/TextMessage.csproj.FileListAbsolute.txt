@@ -1,0 +1,15 @@
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\bin\Debug\net6.0\TextMessage.exe
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\bin\Debug\net6.0\TextMessage.deps.json
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\bin\Debug\net6.0\TextMessage.runtimeconfig.json
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\bin\Debug\net6.0\TextMessage.dll
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\bin\Debug\net6.0\TextMessage.pdb
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\obj\Debug\net6.0\TextMessage.csproj.AssemblyReference.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\obj\Debug\net6.0\TextMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\obj\Debug\net6.0\TextMessage.AssemblyInfoInputs.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\obj\Debug\net6.0\TextMessage.AssemblyInfo.cs
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\obj\Debug\net6.0\TextMessage.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\obj\Debug\net6.0\TextMessage.dll
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\obj\Debug\net6.0\refint\TextMessage.dll
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\obj\Debug\net6.0\TextMessage.pdb
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\obj\Debug\net6.0\TextMessage.genruntimeconfig.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\TextMessage\obj\Debug\net6.0\ref\TextMessage.dll

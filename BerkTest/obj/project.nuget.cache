@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MtoQ3urqWSTn6rK7TFERxr28nZcz7V9ZdGVFo+FPzY7Qh0D06Pz6s/kVS42XaOkM/5FhHuNvWc6w5VT1m9yF8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest\\BerkTest\\BerkTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hasan Berk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

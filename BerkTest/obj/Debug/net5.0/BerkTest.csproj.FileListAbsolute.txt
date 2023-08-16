@@ -1,0 +1,16 @@
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\bin\Debug\net5.0\BerkTest.exe
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\bin\Debug\net5.0\BerkTest.deps.json
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\bin\Debug\net5.0\BerkTest.runtimeconfig.json
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\bin\Debug\net5.0\BerkTest.runtimeconfig.dev.json
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\bin\Debug\net5.0\BerkTest.dll
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\bin\Debug\net5.0\BerkTest.pdb
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\obj\Debug\net5.0\BerkTest.csproj.AssemblyReference.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\obj\Debug\net5.0\BerkTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\obj\Debug\net5.0\BerkTest.AssemblyInfoInputs.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\obj\Debug\net5.0\BerkTest.AssemblyInfo.cs
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\obj\Debug\net5.0\BerkTest.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\obj\Debug\net5.0\BerkTest.dll
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\obj\Debug\net5.0\ref\BerkTest.dll
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\obj\Debug\net5.0\BerkTest.pdb
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\obj\Debug\net5.0\BerkTest.genruntimeconfig.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\BerkTest\obj\Debug\net5.0\refint\BerkTest.dll
