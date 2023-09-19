@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MtoQ3urqWSTn6rK7TFERxr28nZcz7V9ZdGVFo+FPzY7Qh0D06Pz6s/kVS42XaOkM/5FhHuNvWc6w5VT1m9yF8Q==",
+  "dgSpecHash": "EXA8JIgg+WwdwDnd1s7kiqo2qn+VcatflyY4O0L81jN7WuFnMfMkgkkjk9EJx49UV1PqMwcW1ozcTm30QZm4WQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest\\BerkTest\\BerkTest.csproj",
+  "projectFilePath": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest3\\calculatorandtextmessage\\BerkTest\\BerkTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hasan Berk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],

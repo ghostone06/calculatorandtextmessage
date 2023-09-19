@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest\\TextMessage\\TextMessage.csproj",
+      "projectUniqueName": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest3\\calculatorandtextmessage\\TextMessage\\TextMessage.csproj",
       "projectName": "TextMessage",
-      "projectPath": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest\\TextMessage\\TextMessage.csproj",
+      "projectPath": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest3\\calculatorandtextmessage\\TextMessage\\TextMessage.csproj",
       "packagesPath": "C:\\Users\\Hasan Berk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest\\TextMessage\\obj\\",
+      "outputPath": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest3\\calculatorandtextmessage\\TextMessage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hasan Berk\\AppData\\Roaming\\NuGet\\NuGet.Config",

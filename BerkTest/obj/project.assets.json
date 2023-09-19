@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest\\BerkTest\\BerkTest.csproj",
+      "projectUniqueName": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest3\\calculatorandtextmessage\\BerkTest\\BerkTest.csproj",
       "projectName": "BerkTest",
-      "projectPath": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest\\BerkTest\\BerkTest.csproj",
+      "projectPath": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest3\\calculatorandtextmessage\\BerkTest\\BerkTest.csproj",
       "packagesPath": "C:\\Users\\Hasan Berk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest\\BerkTest\\obj\\",
+      "outputPath": "C:\\Users\\Hasan Berk\\source\\repos\\BerkTest3\\calculatorandtextmessage\\BerkTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hasan Berk\\AppData\\Roaming\\NuGet\\NuGet.Config",
