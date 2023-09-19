@@ -1,0 +1,15 @@
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\bin\Debug\net6.0\SolidApp.exe
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\bin\Debug\net6.0\SolidApp.deps.json
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\bin\Debug\net6.0\SolidApp.runtimeconfig.json
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\bin\Debug\net6.0\SolidApp.dll
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\bin\Debug\net6.0\SolidApp.pdb
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\obj\Debug\net6.0\SolidApp.csproj.AssemblyReference.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\obj\Debug\net6.0\SolidApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\obj\Debug\net6.0\SolidApp.AssemblyInfoInputs.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\obj\Debug\net6.0\SolidApp.AssemblyInfo.cs
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\obj\Debug\net6.0\SolidApp.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\obj\Debug\net6.0\SolidApp.dll
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\obj\Debug\net6.0\refint\SolidApp.dll
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\obj\Debug\net6.0\SolidApp.pdb
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\obj\Debug\net6.0\SolidApp.genruntimeconfig.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\SolidApp\obj\Debug\net6.0\ref\SolidApp.dll

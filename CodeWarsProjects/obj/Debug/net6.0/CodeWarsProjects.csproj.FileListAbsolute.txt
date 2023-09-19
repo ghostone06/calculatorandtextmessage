@@ -1,0 +1,15 @@
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\bin\Debug\net6.0\CodeWarsProjects.exe
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\bin\Debug\net6.0\CodeWarsProjects.deps.json
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\bin\Debug\net6.0\CodeWarsProjects.runtimeconfig.json
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\bin\Debug\net6.0\CodeWarsProjects.dll
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\bin\Debug\net6.0\CodeWarsProjects.pdb
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\obj\Debug\net6.0\CodeWarsProjects.csproj.AssemblyReference.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\obj\Debug\net6.0\CodeWarsProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\obj\Debug\net6.0\CodeWarsProjects.AssemblyInfoInputs.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\obj\Debug\net6.0\CodeWarsProjects.AssemblyInfo.cs
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\obj\Debug\net6.0\CodeWarsProjects.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\obj\Debug\net6.0\CodeWarsProjects.dll
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\obj\Debug\net6.0\refint\CodeWarsProjects.dll
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\obj\Debug\net6.0\CodeWarsProjects.pdb
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\obj\Debug\net6.0\CodeWarsProjects.genruntimeconfig.cache
+C:\Users\Hasan Berk\source\repos\BerkTest\CodeWarsProjects\obj\Debug\net6.0\ref\CodeWarsProjects.dll
